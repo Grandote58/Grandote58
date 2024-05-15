@@ -1,5 +1,5 @@
 
-<img src="http://drive.google.com/uc?export=view&id=1x36fTWOdwFiNDp2JWQtciRUfoVe9dAj0" alt="Descripción de la imagen" width="1350" height="280">
+<img src="http://drive.google.com/uc?export=view&id=1x36fTWOdwFiNDp2JWQtciRUfoVe9dAj0" alt="Descripción de la imagen" width="1300" height="250">
 
 ![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/:packageName) 
 ![Gitea Stars](https://img.shields.io/gitea/stars/Grandote58/html)
