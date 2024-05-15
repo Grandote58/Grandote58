@@ -8,10 +8,6 @@
 
 
 
-
-
-🚀 **Desarrollador Web | Científico de Datos | Gamer | Innovador SMART** 🚀
-
 🌐 **Desarrollo Web**: Transformamos ideas en experiencias digitales únicas. Desde aplicaciones web impresionantes hasta sitios web interactivos, nuestro código está lleno de magia HTML, CSS y JavaScript.
 
 📊 **Ciencia de Datos**: Desciframos los secretos ocultos en tus datos. Con análisis avanzado y machine learning, convertimos números en insights poderosos para tomar decisiones inteligentes.
