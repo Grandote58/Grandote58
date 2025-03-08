@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png" alt="Descripción de la imagen" width="1200" height="500">
+<img src="https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png" alt="Descripción de la imagen" width="1200" height="4500">
 
 https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png
 
