@@ -1,8 +1,6 @@
 
 <img src="https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png" alt="Descripción de la imagen" width="1200" height="450">
 
-https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png
-
 
 ![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/:packageName) 
 ![Gitea Stars](https://img.shields.io/gitea/stars/Grandote58/html)
