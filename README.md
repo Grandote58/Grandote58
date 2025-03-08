@@ -1,7 +1,7 @@
 
-<img src="[http://drive.google.com/uc?export=view&id=1UYgtDvhj0RwllWZNLEuBJsooT3YZxpcs]" alt="Descripción de la imagen" width="1200" height="400">
+<img src="https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png" alt="Descripción de la imagen" width="1200" height="500">
 
-
+https://github.com/Grandote58/Recursos/blob/main/Logo001_Git.png
 
 
 ![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/:packageName) 
